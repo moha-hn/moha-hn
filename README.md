@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **web development and mobile app design**
 
-- 📫 How to reach me **mhanou442@gmail.com**
-
 - ⚡ Fun fact **I'm a gaming enthusiast and love integrating gaming concepts into my projects**
 
 <h3 align="left">Connect with me:</h3>
