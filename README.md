@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **advanced web and mobile development technologies using React and Kotlin.**
 
-- 👯 I’m looking to collaborate on **on projects related to web and mobile app development, as well as cybersecurity**
+- 👯 I’m looking to collaborate  **on projects related to web and mobile app development, as well as cybersecurity**
 
 - 💬 Ask me about **web development and mobile app design**
 
