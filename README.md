@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed</h1>
 <h3 align="center">I'm a software engineer passionate about coding, innovation, and transforming ideas into impactful projects.</h3>
 
-- 🔭 I’m currently working on **on digitalizing a medical clinic with an iOS app**
+- 🔭 I’m currently working on **on digitalizing a restauration firm with an  nativescript mobile app**
 
 - 🌱 I’m currently learning **advanced web and mobile development technologies using React and Kotlin.**
 
